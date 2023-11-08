@@ -1,9 +1,15 @@
-# 🏄‍♂️Son Nguyen
+# Son Nguyen
 
 **`Someone with a keen eye for details`**
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CAEDF7&random=false&width=435&lines=Computer+Science+Student;Love+to+learn+%3C3;Let's+connect!;Front-end+developer)](https://git.io/typing-svg)
+
+### Facts About Me
+- 🧞 I'm a Tech Enthusiast since childhood.
+- 🔭 I’m currently working on Fullstack Web Development.
+- 👯 I’m looking to collaborate with Fullstack Web and UI/UX projects.
+- ⚡ Fun fact: I love to lift and play competitive games.
 
 ### Languages and Tools
 <div align="left">
